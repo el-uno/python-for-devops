@@ -21,9 +21,9 @@
   - Example: Using variables to store and manipulate configuration data in a DevOps context.
 
 ## Day 4: Functions, Modules and Packages
-- What are differences between function, modules and packages ?
-- How to import a package ?
-- What are Python workspaces ?
+- What are the differences between functions, modules and packages?
+- How to import a package?
+- What are Python workspaces?
 
 ## Day 5: Environment Variables and Command Line Arguments
 - Reading and writing environment variables in Python.
@@ -31,7 +31,7 @@
 - Securing sensitive information in environment variables.
 - Handling command line arguments in Python.
 - Practice exercises and examples:
-  - Example: Developing a Python script that accepts command line arguments to customize DevOps automation tasks.
+  - Example: Developing a Python script that accepts command-line arguments to customise DevOps automation tasks.
 
 ## Day 6: Operators
 - Introduction to operators in Python.
@@ -60,7 +60,7 @@
 - List comprehensions.
 - Nested lists and advanced list operations.
 - Practice exercises and examples:
-  - Example: Print list of files in the list of folders provided
+  - Example: Print a list of files in the list of folders provided
 
 ## Day 11: Working with Dictionaries and Sets (Project-1)
 - Dictionaries and key-value pairs.
@@ -88,12 +88,12 @@
 - Practice exercises and examples:
   - Example: Write a Python API which listens to a GitHub comment and creates a ticket in JIRA.
 
-## Day 15: Github-JIRA intergration Project - (Project-4) - (Part-2)
+## Day 15: Github-JIRA integration Project - (Project-4) - (Part-2)
 - Introduction to Flask.
-- Write your first API in python.
+- Write your first API in Python.
 - How to handle API calls and deploy your API to a server.
 - Practice exercises and examples:
-  - Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
+  - Example: Write a Python API which listens to a GitHub comment and creates a ticket in JIRA.
 
 ## Day 16: Python Interview Questions & Answers
 - Beginner and intermediate Level
