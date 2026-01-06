@@ -66,27 +66,27 @@
 - Dictionaries and key-value pairs.
 - Sets and set operations.
 - Practice exercises and examples:
-  - Example: Managing a dictionary of server configurations and optimizing retrieval.
+  - Example: Managing a dictionary of server configurations and optimising retrieval.
 
 ## Day 12: Python Tasks for DevOps (Part 1) - File Operations (Project-2)
 - Introduction to File Operations and Boto3.
 - Automating File operations.
 - Practice exercises and examples:
-  - Example: Update a server resources in the server.conf file up on external notification.
+  - Example: Update a server's resources in the server.conf file up on external notification.
 
 ## Day 13: Python Tasks for DevOps (Part 2) (Project-3)
 - Using Fabric for remote task automation.
 - AWS automation with Boto3.
 - Managing EC2 instances, S3 buckets, and more.
 - Practice exercises and examples:
-  - Example: Creating a aws script for deploying applications to remote servers.
+  - Example: Creating an AWS script for deploying applications to remote servers.
 
-## Day 14: Github-JIRA intergration Project - (Project-4)
+## Day 14: Github-JIRA integration Project - (Project-4)
 - Introduction to RESTful APIs.
 - Making HTTP requests using Python.
 - Parsing JSON responses and error handling.
 - Practice exercises and examples:
-  - Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
+  - Example: Write a Python API which listens to a GitHub comment and creates a ticket in JIRA.
 
 ## Day 15: Github-JIRA intergration Project - (Project-4) - (Part-2)
 - Introduction to Flask.
